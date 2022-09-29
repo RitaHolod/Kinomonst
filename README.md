@@ -1,5 +1,5 @@
 # Kinomonst
-Site where I learned grid system
+## [Ссылка на сайт](https://ritaholod.github.io/Kinomonst/)
 
 ## Что сделано
 
